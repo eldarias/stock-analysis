@@ -7,33 +7,38 @@ The purpose of this project was to analyze the provided stocks by using VBA in E
 The results from the project were excellent since a significant decrease on the total runtime of the code was observed, yet achieving the same results, which was to analyze the stocks' performance for each year.  As for the stocks' performance between 2017 and 2018, the analyzed stocks performed very well in 2017 where most of them had very good returns, while the 2018 stocks had bad performance with negative returns, with the exception of two stocks.  The images below provide a visualization of the runtime as well as the performance for both years.
 
 ### All Stocks for 2017
-
 #### Original VBA Code Runtime
 <image src="./Resources/VBA_Challenge_2017-OriginalCodeRuntime.png">
+
 - The above image displays the total VBA Code runtime when analyzing all **2017** Stocks 'BEFORE' refactoring the VBA code.
 
 #### Refactored VBA Code Runtime
 <image src="./Resources/VBA_Challenge_2017.png">
+
 - The above image displays the total VBA Code runtime when analyzing all **2017** Stocks 'AFTER' refactoring the VBA code.
 
 ### All Stocks for 2018
 
 #### Original VBA Code Runtime
 <image src="./Resources/VBA_Challenge_2018-OriginalCodeRuntime.png">
+
 - The above image displays the total VBA Code runtime when analyzing all **2018** Stocks 'BEFORE' refactoring the VBA code.
 
 #### Refactored VBA Code Runtime
 <image src="./Resources/VBA_Challenge_2018.png">
+
 - The above image displays the total VBA Code runtime when analyzing all **2018** Stocks  'AFTER' refactoring the VBA code.
 
 
 ### Stocks' performance for 2017 and 2018
 #### Performance of Stocks for 2017
 <image src="./Resources/VBA_Challenge_2017-StocksPerformance.png">
+
 - The above image displays the performance of all analyzed stocks for the Year 2017
   
 #### Performance of Stocks for 2018
 <image src="./Resources/VBA_Challenge_2018-StocksPerformance.png">
+
 - The above image displays the performance of all analyzed stocks for the Year 2018
 
 ### Refactored Code:
