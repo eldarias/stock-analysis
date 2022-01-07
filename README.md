@@ -6,6 +6,7 @@ The purpose of this project was to analyze the provided stocks by using VBA in E
 ## Results
 The results from the project were excellent since a significant decrease on the total runtime of the code was observed, yet achieving the same results, which was to analyze the stocks' performance for each year.  As for the stocks' performance between 2017 and 2018, the analyzed stocks performed very well in 2017 where most of them had very good returns, while the 2018 stocks had bad performance with negative returns, with the exception of two stocks.  The images below provide a visualization of the runtime as well as the performance for both years.
 
+
 ### All Stocks for 2017
 #### Original VBA Code Runtime
 <image src="./Resources/VBA_Challenge_2017-OriginalCodeRuntime.png">
@@ -16,6 +17,7 @@ The results from the project were excellent since a significant decrease on the 
 <image src="./Resources/VBA_Challenge_2017.png">
 
 - The above image displays the total VBA Code runtime when analyzing all **2017** Stocks _AFTER_ refactoring the VBA code.
+
 
 ### All Stocks for 2018
 
@@ -28,6 +30,7 @@ The results from the project were excellent since a significant decrease on the 
 <image src="./Resources/VBA_Challenge_2018.png">
 
 - The above image displays the total VBA Code runtime when analyzing all **2018** Stocks  _AFTER_ refactoring the VBA code.
+
 
 
 ### Stocks' performance for 2017 and 2018
